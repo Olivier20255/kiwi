@@ -1,0 +1,6 @@
+{
+  "name": "Kiwi",
+  "description": "A modern, sleek, and highly visual fashion e-commerce platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
